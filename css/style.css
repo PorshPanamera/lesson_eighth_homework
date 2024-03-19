@@ -1,0 +1,146 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  width: 750px;
+  height: 600px;
+  margin: 0 auto;
+  margin-top: 200px;
+}
+html {
+  font-family: "Roboto", sans-serif;
+}
+.card_1 {
+  display: inline-block;
+  background-color: #e0e0e0;
+  height: 225px;
+  width: 200px;
+  margin: 20px;
+}
+.card_1 img {
+  height: 130px;
+  width: 130px;
+  margin-right: 35px;
+  margin-left: 35px;
+}
+.card_1 h5 {
+  text-align: center;
+  font-size: 18px;
+  margin: 10px;
+}
+.card_1 p {
+  text-align: center;
+  font-size: 14px;
+}
+.card_2 {
+  display: inline-block;
+  background-color: #e0e0e0;
+  height: 225px;
+  width: 200px;
+  margin: 20px;
+}
+.card_2 img {
+  height: 130px;
+  width: 130px;
+  margin-right: 35px;
+  margin-left: 35px;
+}
+.card_2 h5 {
+  text-align: center;
+  font-size: 18px;
+  margin: 10px;
+}
+.card_2 p {
+  text-align: center;
+  font-size: 14px;
+}
+.card_3 {
+  display: inline-block;
+  background-color: #e0e0e0;
+  height: 225px;
+  width: 200px;
+  margin: 20px;
+}
+.card_3 img {
+  height: 130px;
+  width: 130px;
+  margin-right: 35px;
+  margin-left: 35px;
+}
+.card_3 h5 {
+  text-align: center;
+  font-size: 18px;
+  margin: 10px;
+}
+.card_3 p {
+  text-align: center;
+  font-size: 14px;
+}
+.card_4 {
+  display: inline-block;
+  background-color: #e0e0e0;
+  height: 225px;
+  width: 200px;
+  margin: 20px;
+}
+.card_4 img {
+  height: 130px;
+  width: 130px;
+  margin-right: 35px;
+  margin-left: 35px;
+}
+.card_4 h5 {
+  text-align: center;
+  font-size: 18px;
+  margin: 10px;
+}
+.card_4 p {
+  text-align: center;
+  font-size: 14px;
+}
+.card_5 {
+  display: inline-block;
+  background-color: #e0e0e0;
+  height: 225px;
+  width: 200px;
+  margin: 20px;
+}
+.card_5 img {
+  height: 130px;
+  width: 130px;
+  margin-right: 35px;
+  margin-left: 35px;
+}
+.card_5 h5 {
+  text-align: center;
+  font-size: 18px;
+  margin: 10px;
+}
+.card_5 p {
+  text-align: center;
+  font-size: 14px;
+}
+.card_6 {
+  display: inline-block;
+  background-color: #e0e0e0;
+  height: 225px;
+  width: 200px;
+  margin: 20px;
+}
+.card_6 img {
+  height: 130px;
+  width: 130px;
+  margin-right: 35px;
+  margin-left: 35px;
+}
+.card_6 h5 {
+  text-align: center;
+  font-size: 18px;
+  margin: 10px;
+}
+.card_6 p {
+  text-align: center;
+  font-size: 14px;
+}
